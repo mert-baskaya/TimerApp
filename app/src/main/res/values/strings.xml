@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TimerApp</string>
+    <string name="chronometer">Chronometer</string>
+    <string name="timer">Timer</string>
 </resources>
